@@ -1,0 +1,10 @@
+[package]
+name = "generate_data"
+version = "0.1.0"
+authors = ["fahim"]
+edition = "2018"
+
+[dependencies]
+rand = "0.5.5"
+tempfile = "3.0.4"
+toml = "0.4.7"
